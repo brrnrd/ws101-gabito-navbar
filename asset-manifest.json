@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-gabito-navbar/static/css/main.3dbc711c.css",
+    "main.js": "/ws101-gabito-navbar/static/js/main.f4582cb8.js",
+    "index.html": "/ws101-gabito-navbar/index.html",
+    "main.3dbc711c.css.map": "/ws101-gabito-navbar/static/css/main.3dbc711c.css.map",
+    "main.f4582cb8.js.map": "/ws101-gabito-navbar/static/js/main.f4582cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dbc711c.css",
+    "static/js/main.f4582cb8.js"
+  ]
+}
